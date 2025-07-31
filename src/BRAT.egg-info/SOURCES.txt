@@ -1,0 +1,13 @@
+README.md
+setup.py
+src/BRAT/__init__.py
+src/BRAT/algorithms.py
+src/BRAT/inferences.py
+src/BRAT/trees.py
+src/BRAT/utils.py
+src/BRAT/variance_estimation.py
+src/BRAT.egg-info/PKG-INFO
+src/BRAT.egg-info/SOURCES.txt
+src/BRAT.egg-info/dependency_links.txt
+src/BRAT.egg-info/requires.txt
+src/BRAT.egg-info/top_level.txt
